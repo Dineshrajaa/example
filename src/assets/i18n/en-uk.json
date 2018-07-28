@@ -1,0 +1,7 @@
+{
+  "HOME": {
+    "TITLE": "Hello en-uk with ngx-translate!",
+    "SELECT": "Change languageuk",
+    "DEFAULT":"Default textus"
+  }
+}
